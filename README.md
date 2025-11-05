@@ -14,7 +14,7 @@ El objetivo es mantenerte en el aire el máximo tiempo posible evitando caer.
 ## 📱 Enlaces oficiales
 
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.futurebyte.stayhigh)
-- [Política de Privacidad](https://futurebytemegagames.github.io/stay-high-fly-or-fall/politica-de-privacidad)
+- [Política de Privacidad]([https://futurebytemegagames.github.io/stay-high-fly-or-fall/politica-de-privacidad](https://futurebyte-megagames.github.io/Stay-High-Fly-or-Fall/politica-de-privacidad))
 - [Términos y Condiciones](https://futurebytemegagames.github.io/stay-high-fly-or-fall/terminos-y-condiciones)
 ---
 
